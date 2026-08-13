@@ -37,11 +37,10 @@ LucidSkill is intended for adults 18 and over and is not directed to children. W
 
 ## 8. Retention & deletion
 
-On-device data is retained until you delete it, either individually, with 'Delete all data' in Settings, or by uninstalling the app. Subscription records held by our subscription provider and your app store are retained by them as required for billing, accounting and fraud-prevention purposes. To request deletion of subscription-related records, email support@lucidskill.app.
-
+On-device data is retained until you delete it, either individually, with 'Delete all data' in Settings, or by uninstalling the app. Subscription records held by our subscription provider and your app store are retained by them as required for billing, accounting and fraud-prevention purposes. To request deletion of subscription-related records, email info@focuserllc.com.
 ## 9. Your rights
 
-Depending on where you live, you may have rights to access, correct, delete, or restrict processing of personal data, and to withdraw consent. Because your content stays on your device, you can exercise most of these rights directly and instantly in the app — 'Delete all data' in Settings erases everything held about your use of it. For anything relating to subscription records, email support@lucidskill.app and we will respond within the time required by applicable law. You will never be discriminated against for exercising these rights.
+Depending on where you live, you may have rights to access, correct, delete, or restrict processing of personal data, and to withdraw consent. Because your content stays on your device, you can exercise most of these rights directly and instantly in the app — 'Delete all data' in Settings erases everything held about your use of it. For anything relating to subscription records, email info@focuserllc.com and we will respond within the time required by applicable law. You will never be discriminated against for exercising these rights.
 
 ## 10. Security
 
@@ -53,7 +52,7 @@ If this policy changes materially, the updated version will appear here with a n
 
 ## 12. Contact
 
-Questions, requests and privacy concerns can be sent to Focuser LLC at support@lucidskill.app. Please mention the platform you use — iOS or Android — so we can help you faster.
+Questions, requests and privacy concerns can be sent to Focuser LLC at info@focuserllc.com. Please mention the platform you use — iOS or Android — so we can help you faster.
 
 ---
 
