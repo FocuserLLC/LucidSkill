@@ -2,7 +2,7 @@
 
 **Focuser LLC**
 
-Need help with LucidSkill? Email **support@lucidskill.app**.
+Need help with LucidSkill? Email **info@focuserllc.com**.
 
 Please include your platform (iOS or Android), your app version — shown at the bottom of
 Settings — and, if something went wrong in a session, what you were doing at the time.
