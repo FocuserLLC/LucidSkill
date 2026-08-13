@@ -60,7 +60,7 @@ This agreement is between you and us only, not with Apple, Google or any other a
 
 ## 14. Support
 
-We are solely responsible for support of LucidSkill. Questions, problems and feature requests can be sent to support@lucidskill.app. Refund and billing questions must go to Apple or Google, who process all payments.
+We are solely responsible for support of LucidSkill. Questions, problems and feature requests can be sent to info@focuserllc.com. Refund and billing questions must go to Apple or Google, who process all payments.
 
 ## 15. Governing law & disputes
 
